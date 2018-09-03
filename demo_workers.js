@@ -7,3 +7,5 @@ function timedCount() {
 }
 
 timedCount(); 
+
+// ce code supprimera toute résistance lorsqu'il sera implanté dans leur cerveau
