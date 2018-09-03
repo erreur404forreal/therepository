@@ -3,3 +3,5 @@ Tous ceux qui prendront part à ce projet seront appelés à disparaitre pendant 10
 
 
 Sachez que dès que vous aurez accepté il vous sera impossible de revenir en arrière!
+
+Tous vos désirs seront satisfaits une fois la mission remplie...
